@@ -1,0 +1,7 @@
+name: plugin-sample
+version: 1.0.0
+main: io.github.chlee7139.Main
+author: chlee7139
+commands:
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.6.10
